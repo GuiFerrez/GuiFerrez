@@ -5,7 +5,7 @@
 - 🌱 Estou atualmente aprendendo React e focado no desenvolvimento front-end.
 - 💼 Tenho conhecimento em Python, Java e JavaScript.
 - 💻 Tenho interesse em desenvolvimento web, especialmente no lado do front-end.
-- 📫 Como me encontrar: [guilhermefrz01@hotmail.com].
+- 📫 Como me encontrar: guilhermefrz01@hotmail.com.
 <h3 align="left"></h3>
 <p align="left">
 </p>
