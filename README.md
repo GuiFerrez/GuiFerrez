@@ -1,11 +1,11 @@
-<h1 align="center">Hi 👋, I'm Guilherme</h1>
+<h1 align="center">Oi 👋, Eu sou Guilherme Fernandes</h1>
 <h3 align="center"></h3>
 
 
 - 🌱 Estou atualmente aprendendo React e focado no desenvolvimento front-end.
 - 💼 Tenho conhecimento em Python, Java e JavaScript.
 - 💻 Tenho interesse em desenvolvimento web, especialmente no lado do front-end.
-- 📫 Como me encontrar: [Insira seus links para redes sociais, e-mail, etc.].
+- 📫 Como me encontrar: [guilhermefrz01@hotmail.com].
 <h3 align="left"></h3>
 <p align="left">
 </p>
